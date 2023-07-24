@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "sifra123",
+    "database": "tabski",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "sifra123",
+    "database": "tabski",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "sifra123",
+    "database": "tabski",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
