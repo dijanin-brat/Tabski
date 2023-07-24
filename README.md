@@ -2,7 +2,7 @@
 
 In this file you can see instructions dor running this Node.js app (node version used during development 18.16.1).
 
-1. Create new postgres database named 'tabski' (in pgAdmin4 or something similar).
+1. Create new postgres database named 'tabski' with default settings (in pgAdmin4 or something similar).
 
 2. Open terminal 
 
